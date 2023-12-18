@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello there! 👋
+## My name is Dan
+🔭 I’m currently working on GardIO
+📫 You can reach me here: [https://x.com/ ](https://twitter.com/danielbagan00)
+😄 Pronouns: He/Him
+⚡ Fun fact: I bit my tongue off when I was a child 😳
 <!--
 **danBagan/danBagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
