@@ -4,7 +4,7 @@
 
 ## Self Taught Software Engineer
 
-I've been coding from the age of 15. I have a passion for football, music, tattoos & photography outside of programming.\
+I've been coding from the age of 15. Outside of programming I have a passion for football, music, tattoos & photography.\
 🌍  I'm based in Liverpool, UK\
 ✉️  You can contact me at [danielbagan00@gmail.com](mailto:danielbagan00@gmail.com)\
 🧠  I'm learning Next.JS\
