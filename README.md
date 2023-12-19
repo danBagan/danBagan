@@ -5,10 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Self Taught Software Engineer
 
 I've been coding from the age of 15. I have a passion for football, music, tattoos & photography outside of programming.\
-🌍  I'm based in Liverpool, UK\
-✉️  You can contact me at [danielbagan00@gmail.com](mailto:danielbagan00@gmail.com)\
-🧠  I'm learning Next.JS\
-⚡  Fun Fact: I bit my tongue off when I was a child (Don't worry I still have a tongue) 😳\
+*🌍  I'm based in Liverpool, UK\
+*✉️  You can contact me at [danielbagan00@gmail.com](mailto:danielbagan00@gmail.com)\
+*🧠  I'm learning Next.JS\
+*⚡  Fun Fact: I bit my tongue off when I was a child (Don't worry I still have a tongue) 😳\
 
 <a href="https://www.x.com/danielbagan00" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/danielbagan00?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
