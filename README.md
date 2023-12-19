@@ -1,5 +1,7 @@
+<p align="center">
+  ![Animoji-removebg-preview](https://github.com/danBagan/danBagan/assets/17460601/217a908f-bb82-4b7b-9001-d8e551b3c94e)
+</p>
 
-![Animoji-removebg-preview](https://github.com/danBagan/danBagan/assets/17460601/217a908f-bb82-4b7b-9001-d8e551b3c94e)
 
 ### Hi I am Dan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
