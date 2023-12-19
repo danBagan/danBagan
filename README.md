@@ -1,5 +1,5 @@
 <p align="center">
-  ![Animoji-removebg-preview](https://github.com/danBagan/danBagan/assets/17460601/217a908f-bb82-4b7b-9001-d8e551b3c94e)
+  <img src="https://github.com/danBagan/danBagan/assets/17460601/217a908f-bb82-4b7b-9001-d8e551b3c94e">
 </p>
 
 
