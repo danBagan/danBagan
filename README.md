@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Bagan
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Bagan
 
 ===================================================================================
 
-Self Taught Software Engineer
+## Self Taught Software Engineer
 
 I've been coding from the age of 15. I have a passion for football, music, tattoos & photography outside of programming.\
 🌍  I'm based in Liverpool, UK\
