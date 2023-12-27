@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/danBagan/danBagan/assets/17460601/217a908f-bb82-4b7b-9001-d8e551b3c94e">
-</p>
+[!MasterHead](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)
 
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
