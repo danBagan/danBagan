@@ -1,5 +1,6 @@
-<img align="center" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
-
+<p align="center">
+  <img width="400" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
