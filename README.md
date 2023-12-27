@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif](https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif))
+[![MasterHead](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif](https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif))
 
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
