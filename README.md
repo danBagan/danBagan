@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📫 How to reach me **danielbagan00@gmail.com**
+- 📫 You can reach me here: **danielbagan00@gmail.com**
 
 - ⚡ Fun fact **I bit my tongue off when I was a child (Don't worry I still have a tongue) 😳**
 
