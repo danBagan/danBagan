@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/danielbagan00" target="blank"><img src="https://img.shields.io/twitter/follow/danielbagan00?logo=twitter&style=for-the-badge" alt="danielbagan00" /></a> </p>
 
-- 🔭 I’m currently working on **gardIO**
-
-- 🌱 I’m currently learning **NextJS**
+- 🔭 I’m currently working on **Sift**
 
 - 📫 You can reach me here: **danielbagan00@gmail.com**
 
