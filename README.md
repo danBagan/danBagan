@@ -6,8 +6,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/danielbagan00" target="blank"><img src="https://img.shields.io/twitter/follow/danielbagan00?logo=twitter&style=for-the-badge" alt="danielbagan00" /></a> </p>
-
 - 🔭 I’m currently working on **https://github.com/danBagan/sift**
 
 - 📫 You can reach me here: **danielbagan00@gmail.com**
