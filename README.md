@@ -2,7 +2,7 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=275BF5&center=true&random=true&width=435&lines=Software+Engineer+working+on+Sift!" alt="Typing SVG" /></a>
 
 
-<h3 align="center"> 🔭 I’m currently working on [Sift](https://github.com/danBagan/sift)</h3>
+<h3 align="center"> 🔭 I’m currently working on https://github.com/danBagan/sift</h3>
 
 <h3 align="center">⚡ Fun fact **I bit my tongue off as a child (don't worry I still have one)**</h3>
 
