@@ -1,8 +1,11 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/360422d1-f748-4c0a-90a8-01ab8d8c2b46" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=275BF5&center=true&random=true&width=435&lines=Software+Engineer+working+on+Sift!" alt="Typing SVG" /></a>
-- 🔭 I’m currently working on [Sift](https://github.com/danBagan/sift)
 
-- ⚡ Fun fact **I bit my tongue off as a child (don't worry I still have one)**
+
+🔭 I’m currently working on [Sift](https://github.com/danBagan/sift)
+
+⚡ Fun fact **I bit my tongue off as a child (don't worry I still have one)**
+
 
 <h3 align="center">Connect with me here:</h3>
 <p align="center">
