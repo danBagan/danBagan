@@ -15,5 +15,5 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://ko-fi.com/danielbagan"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danielbagan" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danbagan&show_icons=true&locale=en" alt="danbagan" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danbagan&show_icons=true&locale=en" alt="danbagan" /></p>
 
