@@ -4,7 +4,7 @@
 
 <h3 align="center"> 🔭 I’m currently working on https://github.com/danBagan/sift</h3>
 
-<h3 align="center">⚡ Fun fact **I bit my tongue off as a child (don't worry I still have one)**</h3>
+<h3 align="center">⚡ Fun fact <b>I bit my tongue off as a child (don't worry I still have one)</b></h3>
 
 
 <h3 align="center">Connect with me here:</h3>
