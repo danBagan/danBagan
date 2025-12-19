@@ -7,6 +7,7 @@
 
 
 - 🔭 I’m currently working on **https://github.com/danBagan/sift**
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S21QJLAS)
 
 - 📫 You can reach me here: **danielbagan00@gmail.com**
 
