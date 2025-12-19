@@ -1,5 +1,5 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/360422d1-f748-4c0a-90a8-01ab8d8c2b46" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+working+on+Sift)](https://git.io/typing-svg)
 - 🔭 I’m currently working on [Sift](https://github.com/danBagan/sift)
 
 - ⚡ Fun fact **I bit my tongue off as a child (don't worry I still have one)**
