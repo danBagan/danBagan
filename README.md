@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm currently working on Sift<br>I'm not currently looking to collaborate on anything<br>I'm also not currently looking for help<br>I'm currently learning ElectronJS<br>Fun Fact: I bit my tongue off when I was a child... (don't worry I still have a tongue)
+I'm currently working on Sift<br>I'm currently learning ElectronJS<br>Fun Fact: I bit my tongue off when I was a child... (don't worry I still have a tongue)
 
 
 ## 🌐 Socials:
