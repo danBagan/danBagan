@@ -16,8 +16,6 @@ I'm currently working on Sift<br>I'm currently learning ElectronJS<br>Fun Fact: 
 ![](https://nirzak-streak-stats.vercel.app/?user=danBagan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danBagan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danBagan&icon=0&color=0)](https://visitcount.itsvg.in)
